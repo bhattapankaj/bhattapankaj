@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Bhatta</h1>
 <h3 align="center">Generative AI Engineer | Computer Science Student @ULM | UI/UX & Graphics Designer | Full-Stack Developer | Educator & Community Builder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattapankaj" alt="bhattapankaj" /></a> </p>
-
 - 🔭 I’m currently working on [Campesh](https://www.campesh.com/login)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
