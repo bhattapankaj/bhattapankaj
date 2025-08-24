@@ -1,5 +1,5 @@
-About Me:
-Hello! I'm Pankaj Bhatta<br>I'm a Computer Science Student|<br><br>Fueled by curiosity and coffee, I turn ideas into code, pixels, and impact. From the land of Mt. Everest to the land of opportunity, I'm on a mission to create, learn, and leave things better than I found them.<br><br>Generative AI Engineer | Computer Science Student @ULM | UI/UX & Graphics Designer | Full-Stack Developer | Educator & Community Builder<br>
+<b>
+Hello! I'm Pankaj Bhatta<br>I'm a Computer Science Student|<br><br>Fueled by curiosity and coffee, I turn ideas into code, pixels, and impact. From the land of Mt. Everest to the land of opportunity, I'm on a mission to create, learn, and leave things better than I found them.<br><br>Generative AI Engineer | Computer Science Student @ULM | UI/UX & Graphics Designer | Full-Stack Developer | Educator & Community Builder<br><b></b>
 
 
 
