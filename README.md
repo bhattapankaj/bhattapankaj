@@ -12,24 +12,24 @@ Hello! I'm Pankaj Bhatta<br>I'm a Computer Science Student|<br><br>Fueled by cur
 <br>
 <table style="border-collapse:collapse;background:transparent;">
   <tr>
-    <!-- Left column: two boxes stacked -->
-    <td style="padding:0;border:none;background:transparent;vertical-align:top;">
+    <td style="padding:0 8px 0 0;border:none;background:transparent;vertical-align:top;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=bhattapankaj&theme=dark&hide_border=false"
            alt="GitHub Streak Stats"
            style="display:block; background:transparent; border:none;"/>
+    </td>
+    <td style="padding:0 8px;border:none;background:transparent;vertical-align:top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattapankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
            alt="Top Languages"
-           style="display:block; margin-top:8px; background:transparent; border:none;"/>
+           style="display:block; background:transparent; border:none;"/>
     </td>
-
-    <!-- Right column: quotes card beside both -->
-    <td style="padding:0 0 0 12px;border:none;background:transparent;vertical-align:top;">
+    <td style="padding:0;border:none;background:transparent;vertical-align:top;">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox"
            alt="Quotes"
            style="display:block; background:transparent; border:none;"/>
     </td>
   </tr>
 </table>
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=bhattapankaj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattapankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
