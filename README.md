@@ -29,12 +29,3 @@ Hello! I'm Pankaj Bhatta<br>I'm a Computer Science Student|<br><br>Fueled by cur
     </td>
   </tr>
 </table>
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=bhattapankaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattapankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
-
----
-
