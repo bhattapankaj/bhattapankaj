@@ -17,5 +17,4 @@ Hello! I'm Pankaj Bhatta<br>I'm a Computer Science Student|<br><br>Fueled by cur
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhattapankaj&icon=0&color=0)](https://visitcount.itsvg.in)
 
