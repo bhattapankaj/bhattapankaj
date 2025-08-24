@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm <b>Pankaj Bhatta<b><br>I'm a Computer Science Student|<br>Fueled by curiosity and coffee, I turn ideas into code, pixels, and impact. From the land of Mt. Everest to the land of opportunity, I'm on a mission to create, learn, and leave things better than I found them.<br><i>Generative AI Engineer | Computer Science Student @ULM | UI/UX & Graphics Designer | Full-Stack Developer | Educator & Community Builder<i><br>
+Hello! I'm Pankaj Bhatta<br>I'm a Computer Science Student|<br><br>Fueled by curiosity and coffee, I turn ideas into code, pixels, and impact. From the land of Mt. Everest to the land of opportunity, I'm on a mission to create, learn, and leave things better than I found them.<br><br>Generative AI Engineer | Computer Science Student @ULM | UI/UX & Graphics Designer | Full-Stack Developer | Educator & Community Builder<br>
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ Hello! I'm <b>Pankaj Bhatta<b><br>I'm a Computer Science Student|<br>Fueled by c
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhattapankaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bhattapankaj&icon=0&color=0)](https://visitcount.itsvg.in)
