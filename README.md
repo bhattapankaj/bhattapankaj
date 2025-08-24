@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pankaj Bhatta</h1>
 <h3 align="center">Generative AI Engineer | Computer Science Student @ULM | UI/UX & Graphics Designer | Full-Stack Developer | Educator & Community Builder</h3>
 
-- 🔭 I’m currently working on [Campesh](https://www.campesh.com/login)
+I’m currently working on [Campesh](https://www.campesh.com/login)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://www.pankaj-bhatta.com.np/#portfolio](https://www.pankaj-bhatta.com.np/#portfolio)
-
-- 📝 I regularly write articles on [https://www.pankaj-bhatta.com.np/#portfolio](https://www.pankaj-bhatta.com.np/#portfolio)
+All of my projects are available at [https://www.pankaj-bhatta.com.np/#portfolio](https://www.pankaj-bhatta.com.np/#portfolio)
 
 - 📫 How to reach me **info@pankaj-bhatta.com.np**
-
-- 📄 Know about my experiences [https://www.pankaj-bhatta.com.np/#portfolio](https://www.pankaj-bhatta.com.np/#portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
